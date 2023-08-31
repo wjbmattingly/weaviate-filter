@@ -1,6 +1,6 @@
 # Weaviate Filter
 
-The `weaviate-filter` package provides a convenient way to build GraphQL filters for Weaviate. The main class, `GraphQLFilter`, allows you to create complex filters by adding conditions and operands, and then retrieve the final filter object.
+The `weaviate-filter` package provides a convenient way to build GraphQL filters for [Weaviate](https://weaviate.io/). The main class, `GraphQLFilter`, allows you to create complex filters by adding conditions and operands, and then retrieve the final filter object.
 
 ## Installation
 
