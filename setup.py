@@ -6,7 +6,6 @@ setup(
     packages=find_packages(),
     install_requires=[
         'weaviate-client',
-        'sentence-transformers',
     ],
     url='https://github.com/wjbmattingly/weaviate-filter',
     license='MIT',
