@@ -1,10 +1,18 @@
 # Weaviate Filter
 
+![PyPI](https://img.shields.io/pypi/v/weaviate-filter)
+![GitHub stars](https://img.shields.io/github/stars/wjbmattingly/weaviate-filter)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/weaviate-filter)
+
+![weaviate filter logo](images/weaviate-filter-logo.png)
+
 The `weaviate-filter` package provides a convenient way to build GraphQL filters for [Weaviate](https://weaviate.io/). The main class, `GraphQLFilter`, allows you to create complex filters by adding conditions and operands, and then retrieve the final filter object.
 
 ## Installation
 
 To install the `weaviate-filter` package, you can use pip:
+
+
 
 ```
 pip install weaviate-filter
